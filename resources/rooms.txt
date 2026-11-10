@@ -1,0 +1,6 @@
+entrance=A cold stone corridor. Torches flicker on the walls. You sense danger ahead.
+armory=Rusted weapons line the walls. A dusty chest sits in the corner.
+puzzle_room=Ancient runes cover the walls. A magical barrier blocks the path forward.
+treasure_room=Gold glitters in the dim light. A health potion sits on a pedestal.
+boss_room=The ground shakes. A massive Dragon coils around a hoard of gold.
+exit=Daylight streams through a crack in the ceiling. Freedom is within reach!
